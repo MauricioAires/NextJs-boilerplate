@@ -5,6 +5,6 @@
   // Desabilitar o formatOnSave do editor para utilizar o do typescrip
   "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": false
+    "source.fixAll.eslint": true
   }
 }
