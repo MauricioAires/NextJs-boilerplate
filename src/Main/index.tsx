@@ -3,7 +3,7 @@ const a = 'adasd'
 const Main = () => {
   return (
     <main>
-      <h1>React Avançado</h1>
+      <h1>React AvançadoA</h1>
       <p>{a}</p>
     </main>
   )
