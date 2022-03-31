@@ -3,23 +3,10 @@
 exports[`<Main /> should render the heading  1`] = `
 <main>
   <h1>
-    React Avançado
+    React AvançadoA
   </h1>
-</main>
-`;
-
-exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
-    React Avançado
-  </h1>
-</main>
-`;
-
-exports[`<Main /> should render the heading s 1`] = `
-<main>
-  <h1>
-    React Avançado
-  </h1>
+  <p>
+    adasd
+  </p>
 </main>
 `;
