@@ -1,27 +1,21 @@
 {
-  "name": "PWA App",
-  "short_name": "App",
+  "name": "React Avançado - Boilerplate",
+  "short_name": "React Avançado",
   "icons": [
     {
-      "src": "/icons/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "/img/icon-192.png",
       "type": "image/png",
-      "purpose": "any maskable"
+      "sizes": "192x192"
     },
     {
-      "src": "/icons/android-chrome-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "/icons/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "/img/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
-  "theme_color": "#FFFFFF",
-  "background_color": "#FFFFFF",
+  "background_color": "#06092B",
+  "description": "Boilerlate utilizando Typescript, React, NextJS e Styled Components!",
+  "display": "fullscreen",
   "start_url": "/",
-  "display": "standalone",
-  "orientation": "portrait"
+  "theme_color": "#06092B"
 }
