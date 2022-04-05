@@ -1,4 +1,12 @@
 {
+  "plugins": [
+    [
+      "babel-plugin-styled-components",
+      {
+        "ssr": true
+      }
+    ]
+  ],
   // O jest realiza o teste somente o código javascript
   // então o babel faz uma transpilação antes
   "presets": ["next/babel", "@babel/preset-typescript"]
